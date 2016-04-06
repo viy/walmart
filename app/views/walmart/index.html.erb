@@ -1,0 +1,7 @@
+<h1>Walmart</h1>
+<%= form_tag('walmart/show', method: :get) do %>
+    <%= text_field_tag 'product_id'%>
+    <%= search_field_tag 'pattern'%>
+    <%= submit_tag 'Search item'%>
+<% end %>
+
