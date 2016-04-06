@@ -4,7 +4,7 @@
     <list default="true" id="fb4b215f-190b-4e64-be1e-f71fa64c55ff" name="Default" comment="" />
     <ignored path="wallmart.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="fb4b215f-190b-4e64-be1e-f71fa64c55ff" time="1459945016520" ignored="false" />
+    <file path="/Gemfile" changelist="fb4b215f-190b-4e64-be1e-f71fa64c55ff" time="1459945369634" ignored="false" />
     <file path="/routes.rb" changelist="fb4b215f-190b-4e64-be1e-f71fa64c55ff" time="1459939979599" ignored="false" />
     <file path="/walmart_service.rb" changelist="fb4b215f-190b-4e64-be1e-f71fa64c55ff" time="1459943384305" ignored="false" />
     <file path="/database.yml" changelist="fb4b215f-190b-4e64-be1e-f71fa64c55ff" time="1459945009502" ignored="false" />
@@ -30,19 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="16" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+            <state line="13" column="44" selection-start="330" selection-end="330" vertical-scroll-proportion="0.4642857">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="11" selection-start="174" selection-end="174" vertical-scroll-proportion="0.10714286">
+            <state line="6" column="7" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/app/views/walmart/show.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/walmart_controller.rb" />
         <option value="$PROJECT_DIR$/app/services/walmart_service.rb" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -256,8 +256,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
+    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -410,6 +411,12 @@
       <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
       <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
@@ -691,16 +698,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+        <state line="6" column="7" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="174" selection-end="174" vertical-scroll-proportion="0.10714286">
+        <state line="13" column="44" selection-start="330" selection-end="330" vertical-scroll-proportion="0.4642857">
           <folding />
         </state>
       </provider>
